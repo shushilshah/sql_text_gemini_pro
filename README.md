@@ -1,0 +1,1 @@
+In this project I had used the goolge gemini pro api key to make a project related to SQl query. This project is about accesscing the database data by simply writing text that what we are expecting to get.
