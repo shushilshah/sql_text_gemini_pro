@@ -58,5 +58,4 @@ if submit:
     data = read_sql_query(response, "student.db")
     st.subheader("The response is ")
     for row in data:
-        print(row)
         st.header(row)
